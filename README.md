@@ -10,7 +10,7 @@ Remote-first programmer `UTC+03:30 Asia/Tehran`, based in Isfahan, Iran.
 
 ## 🧭 Current Focus
 
-Actively brushing up on backend skills through hands-on implementation: [`practice-project-1`](https://github.com/medirae/practice-project-1) — a backend system for revisiting fundamentals e.g. Python/Django
+Actively brushing up on backend skills through hands-on implementation: [`practice-project-1`](https://github.com/medirae/practice-project-1) — a backend system for revisiting fundamentals
 
 ## 🧰 Tools
 
