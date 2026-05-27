@@ -8,21 +8,15 @@ Adventurous, Enthusiastic and Systematic.
 
 Remote-first programmer `UTC+03:30 Asia/Tehran`, based in Isfahan, Iran.
 
----
-
 # 🧭 Current Focus
 
 Actively brushing up on backend skills through hands-on implementation:
 
 - [`practice-project-1`](https://github.com/medirae/practice-project-1) — backend system for reinforcing fundamentals e.g. Python/Django
 
----
-
 # 🧰 Tools
 
 Python · Go · Django · SQL · Linux · Bash · Git · Docker
-
----
 
 # 📌 Profile Snapshot
 
