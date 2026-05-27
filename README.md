@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Mehdi
+## 👋 Hi, I'm Mehdi
 
 Backend-focused programmer working back into production-level engineering, with a focus on backend systems and practical software design.
 
@@ -8,15 +8,15 @@ I like building software that is systematic such that the users of which tend to
 
 Remote-first programmer `UTC+03:30 Asia/Tehran`, based in Isfahan, Iran.
 
-### 🧭 Current Focus
+## 🧭 Current Focus
 
-Actively brushing up on backend skills through hands-on implementation: [`practice-project-1`](https://github.com/medirae/practice-project-1) — a backend system for reinforcing fundamentals e.g. Python/Django
+Actively brushing up on backend skills through hands-on implementation: [`practice-project-1`](https://github.com/medirae/practice-project-1) — a backend system for revisiting fundamentals e.g. Python/Django
 
-### 🧰 Tools
+## 🧰 Tools
 
 Python · Go · Django · SQL · Linux · Bash · Git · Docker
 
-### 📌 Profile Snapshot
+## 📌 Profile Snapshot
 
 - ~1 year of backend development experience with Python/Django, including work on production-scale codebases
 - Adept at diving in documentation, source code, and technical literature directly (English fluency is a core enabler here)
