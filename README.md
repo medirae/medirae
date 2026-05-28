@@ -16,7 +16,7 @@ Actively brushing up on backend skills through hands-on implementation: [`practi
 
 Python · Go · Django · SQL · Linux · Bash · Git · Docker
 
-## 📌 Profile Snapshot
+## 📌 Background
 
 - ~1 year of backend development experience with Python/Django, including work on production-scale codebases
 - Adept at diving in documentation, source code, and technical literature directly (English fluency is a core enabler here)
