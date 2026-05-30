@@ -6,7 +6,7 @@ I like building software that is systematic such that the users of which tend to
 
 *Adventurous* • *Enthusiastic*
 
-Remote-first programmer `UTC+03:30 Asia/Tehran`, based in Isfahan, Iran.
+Based in Isfahan, Iran.
 
 ## 🧭 Current Focus
 
