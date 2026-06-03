@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Mehdi
 
-Backend-focused programmer working back into production-level engineering, with a focus on backend systems and practical software design.
+Programmer with a focus on backend systems working back into production-level engineering.
 
 I like building software that is systematic such that the users of which tend to think systematically, e.g. programmers.
 
