@@ -2,6 +2,4 @@
 
 Python/Django Backend Developer
 
-## 🧰 Stack
-
-Python · Go · Django · SQL · Linux · Bash · Git · Docker
+**🧰 Stack:** Python · Go · Django · SQL · Linux · Bash · Git · Docker
